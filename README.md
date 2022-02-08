@@ -22,10 +22,10 @@ Parrot OS 4.11.2
 
 ## Uso
 
-git clone https://github.com/Anonimo501/zerologon.git
+git clone https://github.com/Anonimo501/zerologon-restore.git
 
-cd zerologon/
+cd zerologon-restore/
 
-chmod +x zerologon.sh
+chmod +x zerologon-restore.sh
 
-./zerologon.sh
+./zerologon-restore.sh
